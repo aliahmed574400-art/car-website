@@ -1,0 +1,7 @@
+.chrome-profile
+.edge-profile
+.codex-http.err.log
+.codex-http.out.log
+.codex-homepage.png
+repo-meta
+repo-meta.git
