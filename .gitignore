@@ -8,3 +8,5 @@ dist
 .codex-homepage.png
 repo-meta/
 repo-meta.git/
+
+.vercel
